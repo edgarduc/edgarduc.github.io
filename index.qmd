@@ -18,7 +18,7 @@ listing:
 
 AI researcher working on **inverse problems, generative modeling, and reliable machine learning systems**.
 
-[GitHub](https://github.com/XxelTitoxX){.btn .btn-primary}
+[GitHub](https://github.com/edgarduc){.btn .btn-primary}
 [CV](cv.html){.btn .btn-secondary}
 [Email](mailto:edgar.duc@enpc.fr){.btn .btn-secondary}
 :::

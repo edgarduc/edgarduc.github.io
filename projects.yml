@@ -26,7 +26,7 @@
   concepts: [Flow Matching, Generative Models, Graph Generation, Categorical Data]
   image: "assets/img/CatFlow.png"
   image-alt: "CatFlow"
-  github: "https://github.com/XxelTitoxX/ML_Research_Seminar"
+  github: "https://github.com/edgarduc/ML_Research_Seminar"
   pdf: "assets/pdf/reports/Ml_research_seminar.pdf"
   paper: ""
   demo: ""
@@ -70,7 +70,7 @@
   concepts: [Reinforcement Learning, Grammar Inference, Constituency Parsing]
   image: "assets/img/PCFG_RL.png"
   image-alt: "RL for grammar inference"
-  github: "https://github.com/XxelTitoxX/PCFG_Reinforcement_learning"
+  github: "https://github.com/edgarduc/PCFG_Reinforcement_learning"
   pdf: "assets/pdf/presentations/RL_for_grammar_induction_final.pdf"
   paper: ""
   demo: ""

@@ -7,7 +7,7 @@ project:
 website:
   title: "Edgar Duc"
   description: "AI researcher — projects, papers, code, and presentations"
-  site-url: "https://XxelTitoxX.github.io"
+  site-url: "https://edgarduc.github.io"
   navbar:
     pinned: true
     left:
@@ -19,7 +19,7 @@ website:
         text: CV
     right:
       - icon: github
-        href: https://github.com/XxelTitoxX
+        href: https://github.com/edgarduc
       - icon: linkedin
         href: https://www.linkedin.com/in/edgar-duc-a2b853277
       - icon: envelope

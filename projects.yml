@@ -1,0 +1,76 @@
+- title: "Benchmarking Entropic OT Solvers"
+  year: 2026
+  description: "Comparative study of five entropic optimal transport solvers, including Sinkhorn Map, ICNN, expectile-regularized NOT, Monge-gap NOT, and CFM, across four tasks."
+  concepts: [Optimal Transport, Entropic OT, Sinkhorn, ICNN, Benchmarking]
+  github: ""
+  image: "assets/img/EOT_benchmark.png"
+  image-alt: "Benchmarking entropic OT solvers across tasks and metrics"
+  pdf: ""
+  paper: ""
+  demo: "https://colab.research.google.com/drive/1yHsnmhbQ1ADxlwGr5_WD22f33Kdb2Iqt?usp=sharing"
+
+- title: "LSST Time Series Classification"
+  year: 2026
+  description: "Investigated inductive bias for LSST time series classification by benchmarking recent foundation models such as MOMENT and TSPulse against ROCKET variants."
+  concepts: [Time Series, Classification, Foundation Models, MOMENT, ROCKET]
+  image: "assets/img/LSST.png"
+  image-alt: "LSST time series classification"
+  github: "https://github.com/Vehils-Vinals/time_series_lsst"
+  pdf: "assets/pdf/reports/Time_Series_LSST_ID20_DUC_Edgar_VEHILS-VINALS_Mathis_COLIN_Laurent.pdf"
+  paper: ""
+  demo: ""
+
+- title: "Flow Matching for Categorical and Quantized Data"
+  year: 2026
+  description: "Studied flow matching for categorical and quantized data, from curse of dimensionality issues to generalization properties, based on variational flow matching for graph generation."
+  concepts: [Flow Matching, Generative Models, Graph Generation, Categorical Data]
+  image: "assets/img/CatFlow.png"
+  image-alt: "CatFlow"
+  github: "https://github.com/XxelTitoxX/ML_Research_Seminar"
+  pdf: "assets/pdf/reports/Ml_research_seminar.pdf"
+  paper: ""
+  demo: ""
+
+- title: "M-VAR: Markovian Dependencies for Efficient Next-Scale Prediction"
+  year: 2026
+  description: "Modified a VAR model for efficient generation using Matryushka representations and custom attention patterns, with a study of gradient conflict."
+  concepts: [Autoregressive Models, Image Generation, Matryushka Representations, Attention]
+  image: "assets/img/M_VAR.png"
+  image-alt: "M-VAR"
+  github: "https://github.com/GAD-cell/basic_var"
+  pdf: "assets/pdf/reports/M_VAR_Edgar_DUC_Sinoue_GAD.pdf"
+  paper: ""
+  demo: ""
+
+- title: "Molecular Graph Captioning"
+  year: 2025
+  description: "Built graph-to-text generation models using graph neural networks, LLM fine-tuning, and NLP methods."
+  concepts: [Graph Neural Networks, LLM Fine-Tuning, NLP, Graph-to-Text]
+  image: "assets/img/Mol_Graph_Cap.png"
+  image-alt: "Molecular Graph Captioning"
+  github: "https://github.com/AxENSRennes/altegrad_kaggle/tree/gabriel"
+  pdf: "assets/pdf/presentations/Molecular_Graph_Captioning.pdf"
+  paper: ""
+  demo: ""
+
+- title: "SMC Methods for Solving Fredholm Equations"
+  year: 2025
+  description: "Applied Sequential Monte Carlo methods to inverse problems and Fredholm equations, using particle filters and importance sampling."
+  concepts: [Sequential Monte Carlo, Inverse Problems, Particle Filters, Importance Sampling]
+  image: "assets/img/SMC.png"
+  image-alt: "SMC methods for solving Fredholm equations"
+  github: "https://github.com/josiepierr/Hidden-Markov-motion-debluring"
+  pdf: "assets/pdf/presentations/SMC.pdf"
+  paper: ""
+  demo: ""
+
+- title: "RL for grammar inference"
+  year: 2025
+  description: "Reinforcement learning applied to the grammatical analysis of human actions in videos. Implement a 2-actors sequential bottom-up constituency parser to build the parse tree of the sentence."
+  concepts: [Reinforcement Learning, Grammar Inference, Constituency Parsing]
+  image: "assets/img/PCFG_RL.png"
+  image-alt: "RL for grammar inference"
+  github: "https://github.com/XxelTitoxX/PCFG_Reinforcement_learning"
+  pdf: "assets/pdf/presentations/RL_for_grammar_induction_final.pdf"
+  paper: ""
+  demo: ""

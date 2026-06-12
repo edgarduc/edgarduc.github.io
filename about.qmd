@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+I am an AI researcher interested in robust, efficient, and interpretable machine learning systems.
+
+My current interests include (but not limited to!):
+
+- Brain decoding
+- Robust algorithms for inverse problems
+- ML for physics
+- Evaluation and reliability
+- Ressource efficient training/inference
+
+## Contact
+
+**I am currently looking for a PhD thesis, starting October/November 2026. If you have a project in mind in fundamental AI (AI methodology and mathematical analysis), medical AI or robotics, please let me know!**
+
+- Email: firstname.lastname@enpc.fr
+- GitHub: <https://github.com/XxelTitoxX>
+- LinkedIn: <https://www.linkedin.com/in/edgar-duc-a2b853277/>

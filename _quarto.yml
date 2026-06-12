@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+
+website:
+  title: "Edgar Duc"
+  description: "AI researcher — projects, papers, code, and presentations"
+  site-url: "https://XxelTitoxX.github.io"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/XxelTitoxX
+      - icon: linkedin
+        href: https://www.linkedin.com/in/edgar-duc-a2b853277
+      - icon: envelope
+        href: mailto:edgar.duc@enpc.fr
+
+  page-footer:
+    left: "© 2026 Edgar Duc"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

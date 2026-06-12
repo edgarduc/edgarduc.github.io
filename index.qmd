@@ -1,0 +1,31 @@
+---
+listing:
+  id: projects
+  contents:
+    - projects.yml
+  template: _templates/project-card.ejs.md
+  sort: "year desc"
+  sort-ui: [year, title]
+  filter-ui: true
+  page-size: 50
+  field-types:
+    year: number
+  field-required: [title, description, concepts]
+---
+
+::: {.hero}
+# Edgar Duc
+
+AI researcher working on **generative models, representation learning, and reliable machine learning systems**.
+
+[GitHub](https://github.com/XxelTitoxX){.btn .btn-primary}
+[CV](cv.html){.btn .btn-secondary}
+[Email](mailto:edgar.duc@enpc.fr){.btn .btn-secondary}
+:::
+
+## Selected projects
+
+Use the search box to filter by project name, concept, method, library, or year.
+
+::: {#projects}
+:::

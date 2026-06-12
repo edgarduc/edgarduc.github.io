@@ -1,0 +1,42 @@
+---
+title: "CV"
+---
+
+## Experience
+
+### Research Assistant - Inria Saclay (OPIS)
+March 2026 - August 2026
+
+Lipschitz certificates of deep unrolling methods for solving linear inverse problems, under the supervision of Emilie Chouzenoux and Jean-Christophe Pesquet.
+
+### Research Visitor - POSTECH CVLab
+January 2025 - July 2025
+
+Reinforcement learning applied to the grammatical analysis of human actions in videos, under the supervision of Minsu Cho.
+
+### Research Intern - Dassault Systemes
+June 2024 - December 2024
+
+Optimized performance of the Microsoft Z3 SMT solver for system verification and property checking, including DPLL algorithm fine-tuning, multi-threading in C++, and machine learning with XGBoost for strategy selection.
+
+## Education
+
+### M.Sc. in Data Science - Ecole Polytechnique
+September 2025 - April 2026
+GPA : 4.0/4.0
+**Relevant courses:** Statistical Learning, Advanced Deep Learning, Operator Learning, Generative Models, Hidden Markov Models, Optimal Transport, Graphical Models, Stochastic Approximation, Time Series, Algorithmic Optimization.
+
+### M.Sc. in Applied Mathematics (Auditor) - MVA, ENS Paris-Saclay
+September 2025 - April 2026
+
+**Relevant courses:** Medical Image Analysis, Applied Mathematics for Neuroscience, Distributed and Large Scale Computing Optimization.
+
+### Diplome d'ingenieur (M.Eng.) in Mathematics and Computer Science - Ecole Nationale des Ponts et Chaussees
+2022 - April 2026
+
+**Relevant courses:** Machine Learning, Deep Learning, Statistics, Stochastic Processes, Differential Equations, Financial Mathematics.
+
+### CPGE - La Martiniere Monplaisir
+2020 - 2022
+
+Intensive preparation for French engineering school entrance exams, with coursework in theoretical mathematics and physics, plus French literature and foreign languages.

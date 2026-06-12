@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "March 2026 - August 2026\nLipschitz certificates of deep unrolling methods for solving linear inverse problems, under the supervision of Emilie Chouzenoux and Jean-Christophe Pesquet.\n\n\n\nJanuary 2025 - July 2025\nReinforcement learning applied to the grammatical analysis of human actions in videos, under the supervision of Minsu Cho.\n\n\n\nJune 2024 - December 2024\nOptimized performance of the Microsoft Z3 SMT solver for system verification and property checking, including DPLL algorithm fine-tuning, multi-threading in C++, and machine learning with XGBoost for strategy selection."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "March 2026 - August 2026\nLipschitz certificates of deep unrolling methods for solving linear inverse problems, under the supervision of Emilie Chouzenoux and Jean-Christophe Pesquet.\n\n\n\nJanuary 2025 - July 2025\nReinforcement learning applied to the grammatical analysis of human actions in videos, under the supervision of Minsu Cho.\n\n\n\nJune 2024 - December 2024\nOptimized performance of the Microsoft Z3 SMT solver for system verification and property checking, including DPLL algorithm fine-tuning, multi-threading in C++, and machine learning with XGBoost for strategy selection."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nM.Sc. in Data Science - Ecole Polytechnique\nSeptember 2025 - April 2026 GPA : 4.0/4.0 Relevant courses: Statistical Learning, Advanced Deep Learning, Operator Learning, Generative Models, Hidden Markov Models, Optimal Transport, Graphical Models, Stochastic Approximation, Time Series, Algorithmic Optimization.\n\n\nM.Sc. in Applied Mathematics (Auditor) - MVA, ENS Paris-Saclay\nSeptember 2025 - April 2026\nRelevant courses: Medical Image Analysis, Applied Mathematics for Neuroscience, Distributed and Large Scale Computing Optimization.\n\n\nDiplome d’ingenieur (M.Eng.) in Mathematics and Computer Science - Ecole Nationale des Ponts et Chaussees\n2022 - April 2026\nRelevant courses: Machine Learning, Deep Learning, Statistics, Stochastic Processes, Differential Equations, Financial Mathematics.\n\n\nCPGE - La Martiniere Monplaisir\n2020 - 2022\nIntensive preparation for French engineering school entrance exams, with coursework in theoretical mathematics and physics, plus French literature and foreign languages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Edgar Duc",
+    "section": "",
+    "text": "AI researcher working on generative models, representation learning, and reliable machine learning systems.\nGitHub CV Email"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Edgar Duc",
+    "section": "Selected projects",
+    "text": "Selected projects\nUse the search box to filter by project name, concept, method, library, or year.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        year (Low to High)\n      \n      \n        year (High to Low)\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n\n    \n      \n    \n\n    \n      \n        Benchmarking Entropic OT Solvers\n        \n          2026\n        \n      \n\n      \n        Comparative study of five entropic optimal transport solvers, including Sinkhorn Map, ICNN, expectile-regularized NOT, Monge-gap NOT, and CFM, across four tasks.\n      \n\n      \n        \n          \n            Optimal Transport\n          \n            Entropic OT\n          \n            Sinkhorn\n          \n            ICNN\n          \n            Benchmarking\n          \n        \n      \n\n      \n        \n\n        \n\n        \n\n        \n          Demo\n        \n      \n    \n  \n\n  \n\n    \n      \n    \n\n    \n      \n        LSST Time Series Classification\n        \n          2026\n        \n      \n\n      \n        Investigated inductive bias for LSST time series classification by benchmarking recent foundation models such as MOMENT and TSPulse against ROCKET variants.\n      \n\n      \n        \n          \n            Time Series\n          \n            Classification\n          \n            Foundation Models\n          \n            MOMENT\n          \n            ROCKET\n          \n        \n      \n\n      \n        \n          GitHub\n        \n\n        \n          PDF\n        \n\n        \n\n        \n      \n    \n  \n\n  \n\n    \n      \n    \n\n    \n      \n        Flow Matching for Categorical and Quantized Data\n        \n          2026\n        \n      \n\n      \n        Studied flow matching for categorical and quantized data, from curse of dimensionality issues to generalization properties, based on variational flow matching for graph generation.\n      \n\n      \n        \n          \n            Flow Matching\n          \n            Generative Models\n          \n            Graph Generation\n          \n            Categorical Data\n          \n        \n      \n\n      \n        \n          GitHub\n        \n\n        \n          PDF\n        \n\n        \n\n        \n      \n    \n  \n\n  \n\n    \n      \n    \n\n    \n      \n        M-VAR: Markovian Dependencies for Efficient Next-Scale Prediction\n        \n          2026\n        \n      \n\n      \n        Modified a VAR model for efficient generation using Matryushka representations and custom attention patterns, with a study of gradient conflict.\n      \n\n      \n        \n          \n            Autoregressive Models\n          \n            Image Generation\n          \n            Matryushka Representations\n          \n            Attention\n          \n        \n      \n\n      \n        \n          GitHub\n        \n\n        \n          PDF\n        \n\n        \n\n        \n      \n    \n  \n\n  \n\n    \n      \n    \n\n    \n      \n        Molecular Graph Captioning\n        \n          2025\n        \n      \n\n      \n        Built graph-to-text generation models using graph neural networks, LLM fine-tuning, and NLP methods.\n      \n\n      \n        \n          \n            Graph Neural Networks\n          \n            LLM Fine-Tuning\n          \n            NLP\n          \n            Graph-to-Text\n          \n        \n      \n\n      \n        \n          GitHub\n        \n\n        \n          PDF\n        \n\n        \n\n        \n      \n    \n  \n\n  \n\n    \n      \n    \n\n    \n      \n        SMC Methods for Solving Fredholm Equations\n        \n          2025\n        \n      \n\n      \n        Applied Sequential Monte Carlo methods to inverse problems and Fredholm equations, using particle filters and importance sampling.\n      \n\n      \n        \n          \n            Sequential Monte Carlo\n          \n            Inverse Problems\n          \n            Particle Filters\n          \n            Importance Sampling\n          \n        \n      \n\n      \n        \n          GitHub\n        \n\n        \n          PDF\n        \n\n        \n\n        \n      \n    \n  \n\n  \n\n    \n      \n    \n\n    \n      \n        RL for grammar inference\n        \n          2025\n        \n      \n\n      \n        Reinforcement learning applied to the grammatical analysis of human actions in videos. Implement a 2-actors sequential bottom-up constituency parser to build the parse tree of the sentence.\n      \n\n      \n        \n          \n            Reinforcement Learning\n          \n            Grammar Inference\n          \n            Constituency Parsing\n          \n        \n      \n\n      \n        \n          GitHub\n        \n\n        \n          PDF\n        \n\n        \n\n        \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an AI researcher interested in robust, efficient, and interpretable machine learning systems.\nMy current interests include (but not limited to!):"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nI am currently looking for a PhD thesis, starting October/November 2026. If you have a project in mind in fundamental AI (AI methodology and mathematical analysis), medical AI or robotics, please let me know!\n\nEmail: firstname.lastname@enpc.fr\nGitHub: https://github.com/XxelTitoxX\nLinkedIn: https://www.linkedin.com/in/edgar-duc-a2b853277/"
+  }
+]

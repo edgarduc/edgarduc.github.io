@@ -16,7 +16,7 @@ listing:
 ::: {.hero}
 # Edgar Duc
 
-AI researcher working on **generative models, representation learning, and reliable machine learning systems**.
+AI researcher working on **inverse problems, generative modeling, and reliable machine learning systems**.
 
 [GitHub](https://github.com/XxelTitoxX){.btn .btn-primary}
 [CV](cv.html){.btn .btn-secondary}

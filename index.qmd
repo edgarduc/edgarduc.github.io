@@ -16,12 +16,12 @@ listing:
 ::: {.hero}
 # Edgar Duc
 
-AI researcher working on *inverse problems, generative modeling, and reliable machine learning systems*.
-**I am currently looking for a PhD thesis, starting October/November 2026. If you have a project in mind in fundamental AI (AI methodology and mathematical analysis), medical AI or robotics, please let me know!**
+PhD student at Université Côte d'Azur and Julius-Maximilians-Universität Würzburg working on **theoretical guarantees for LLM alignment** under the supervision of [Samuel Vaiter](https://samuelvaiter.com) and [Damien Garreau](https://sites.google.com/view/damien-garreau/home).
+Feel free to contact me if you want to chat about science, or if you have internship opportunities.
 
 [GitHub](https://github.com/edgarduc){.btn .btn-primary}
 [CV](cv.html){.btn .btn-secondary}
-[Email](mailto:edgar.duc@enpc.fr){.btn .btn-secondary}
+[Email](mailto:edgar.duc@univ-cotedazur.fr){.btn .btn-secondary}
 :::
 
 ## Selected projects

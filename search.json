@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Edgar Duc",
     "section": "",
-    "text": "AI researcher working on inverse problems, generative modeling, and reliable machine learning systems. I am currently looking for a PhD thesis, starting October/November 2026. If you have a project in mind in fundamental AI (AI methodology and mathematical analysis), medical AI or robotics, please let me know!\nGitHub CV Email"
+    "text": "PhD student at Université Côte d’Azur and Julius-Maximilians-Universität Würzburg working on theoretical guarantees for LLM alignment under the supervision of Samuel Vaiter and Damien Garreau. Feel free to contact me if you want to chat about science, or if you have internship opportunities.\nGitHub CV Email"
   },
   {
     "objectID": "index.html#selected-projects",
@@ -39,13 +39,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am an AI researcher interested in robust, efficient, and interpretable machine learning systems.\nMy current interests include (but not limited to!):"
+    "text": "I am a scentist interested in robust, efficient, and interpretable machine learning systems. I am currently working on theoretical guarantees for LLM alignment, from an optimization/statistics point of view.\nMy research curiosity covers (at least):"
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
     "title": "About",
     "section": "Contact",
-    "text": "Contact\nI am currently looking for a PhD thesis, starting October/November 2026. If you have a project in mind in fundamental AI (AI methodology and mathematical analysis), medical AI or robotics, please let me know!\n\nEmail: firstname.lastname@enpc.fr\nGitHub: https://github.com/edgarduc\nLinkedIn: https://www.linkedin.com/in/edgar-duc-a2b853277/"
+    "text": "Contact\nDue to the very limited number of requests that I receive, there is actually a high chance that I will be able to answer you.\n\nEmail: firstname.lastname@univ-cotedazur.fr\nGitHub: https://github.com/edgarduc\nLinkedIn: https://www.linkedin.com/in/edgar-duc-a2b853277/"
   }
 ]
